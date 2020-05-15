@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * Include the function prototypes of all those functions implemented in image_processing.c.
- * Do not remove or modify them in any way.
- */
 
 void remove_red();
 void convert_to_black_and_white();
